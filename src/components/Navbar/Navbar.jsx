@@ -15,7 +15,7 @@ function Navbar() {
   return (
     <nav className='app__navbar'>
       <div className='app__navbar-logo'>
-        <img src={images.gericht} alt="sweet foods logo" />
+        <img src={images.goodtime} alt="sweet foods logo" />
       </div>
       <ul className="app__navbar-links">
         {

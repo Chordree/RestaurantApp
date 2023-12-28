@@ -21,7 +21,7 @@ function Footer() {
         </div>
 
         <div className="app__footer-links_logo">
-          <img src={images.gericht} alt="footer_logo" />
+          <img src={images.goodtime} alt="footer_logo" />
           <p className="p__opensans">&quot;The best way to find yourself 
               is to lose yourself in the service of others.&quot;</p>
           <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />
@@ -42,7 +42,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <p className="p__opensans">2023 &copy; Gericht. All Rights reserved.</p>
+        <p className="p__opensans">2023 &copy; Goodtime. All Rights reserved.</p>
       </div>
 
     </div>

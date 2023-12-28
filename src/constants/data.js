@@ -59,7 +59,7 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'Bright Outlet',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {

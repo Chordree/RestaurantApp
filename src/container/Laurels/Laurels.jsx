@@ -1,5 +1,7 @@
 import { SubHeading } from "../../components/compExports"
 import { images, data } from "../../constants/exports"
+import shaw from '../../assets/tryShaw.png'
+
 import './laurels.css'
 
 
@@ -31,7 +33,7 @@ function Laurels() {
       </div>
 
       <div className="app__wrapper_img">
-        <img src={images.laurels} alt="laurels_img" />
+        <img src={shaw} alt="shawarma_img" />
       </div>
     </div>
   )
